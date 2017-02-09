@@ -1,2 +1,2 @@
-# shubham.github.io
+# s-rajput.github.io
 Blogging
